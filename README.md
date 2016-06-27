@@ -1,9 +1,11 @@
 # codedojo
 fun presentation on random programming topic at work
 
-### Topic: basic Scala & lazy data structures
+### Topic:
+basic Scala & lazy data structures
 
-### Goal: have fun
+### Goal:
+have fun
 
 ### Steps:
 1. `brew install scala`
